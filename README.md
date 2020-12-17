@@ -3,14 +3,20 @@ Gaming using CanvasApp
 
 You can import easily in your Power Apps portal https://make.powerapps.com 
 ## Prerequisite
-- Account in Azure AD
+- Account in Azure AD (Office 365 credential)
 - Office 365 License that has Power Apps - this app is not using any Premium connector
 - Dependency - none
 
 ## Description
-- Sign in at https://make.powerapps.com 
-- upload the zip file -> choose create new
-- done
+- Sign in at https://make.powerapps.com using your Office 365 credential
+- Click Import canvas app -> upload the zip file -> choose create new
+- Share to anyone in your organization (or outside your organizations)
+- done 
+
+![upload .zip file](/Images%20(readme)/img1.JPG)
+
+
+![Create as new](/Images%20(readme)/img2.jpg)
 
 ## Game includes
 - Random Number Generator game - basic 2 values randomnizer
