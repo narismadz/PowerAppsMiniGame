@@ -5,6 +5,7 @@ You can import easily in your Power Apps portal https://make.powerapps.com
 ## Prerequisite
 - Account in Azure AD (Office 365 credential)
 - Office 365 License that has Power Apps - this app is not using any Premium connector
+- Touchscreen monitor for better playing experience
 - Dependency - none
 
 ## Description
@@ -27,6 +28,8 @@ You can import easily in your Power Apps portal https://make.powerapps.com
 
 
 ![Tapple](/Images%20(readme)/img4.JPG)
+
+![Tapple](/Images%20(readme)/img5.jpg)
 
 ## Disclaimer
 - This is for testing Power Apps capabilities and for fun
