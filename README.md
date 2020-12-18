@@ -28,6 +28,8 @@ You can import easily in your Power Apps portal https://make.powerapps.com
 
 
 ![Tapple](/Images%20(readme)/img4.JPG)
+
+Touch screen for better experience among your friends
 ![Tapple](/Images%20(readme)/img5.jpg)
 
 Better to play with Surface Hub :)
