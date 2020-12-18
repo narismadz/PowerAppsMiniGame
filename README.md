@@ -28,6 +28,7 @@ You can import easily in your Power Apps portal https://make.powerapps.com
 
 
 ![Tapple](/Images%20(readme)/img4.JPG)
+![Tapple](/Images%20(readme)/img5.jpg)
 
 Better to play with Surface Hub :)
 ![Tapple](/Images%20(readme)/img6.jpg)
