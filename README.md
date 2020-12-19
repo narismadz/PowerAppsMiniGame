@@ -16,7 +16,7 @@ You can import easily in your Power Apps portal https://make.powerapps.com
 
 ![upload .zip file](/Images%20(readme)/img1.JPG)
 
-
+![Create as new](/Images%20(readme)/img2.jpg)
 
 
 ## Game includes
